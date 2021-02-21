@@ -8,12 +8,12 @@
 
 #### Languages and Tools
 <code>
-  <img alt="Python" width=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
-  <img alt="Haskell" width=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
-  <img alt="Kotlin" width=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
-  <img alt="JS" width=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
-  <img alt="C++" width=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
-  <img alt="Julia" width=42px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
+  <img alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
+  <img alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
+  <img alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
+  <img alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
+  <img alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
+  <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
 </code>
 <hr>
 <code>
@@ -23,14 +23,14 @@
 </code
 <hr>
 <code>
-  <img alt="Django" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
-  <img alt="Heroku" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
-  <img alt="Yandex.Cloud" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/yandex_cloud.png"> 
-  <img alt="VueJS" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vuejs.png"> 
-  <img alt="jQuery" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
-  <img alt="Git" width=50px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.jpeg"> 
+  <img alt="Django" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
+  <img alt="Heroku" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
+  <img alt="Yandex.Cloud" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/yandex_cloud.png"> 
+  <img alt="VueJS" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vuejs.png"> 
+  <img alt="jQuery" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
+  <img alt="Git" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
 </code>
-
+<hr>
 
 Vim, PyCharm, IntelljIdea, Vivaldi, i3wm
 
