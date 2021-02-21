@@ -1,16 +1,23 @@
 ### Hi there 👋
+I’m currently learning at St. Petersburg State University (MCS), living in St. Petersburg, Russia.
 
-<!--
-**tamarinvs19/tamarinvs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like web-development, Open Source, Linux (use Arch and Ubuntu), Vim and badgers (🦡).
 
-Here are some ideas to get you started:
+My projects also locate on 
+<a href="https://gitlab.com/tamarinvs19">
+  <img align="left" alt="GitLab" height="22px" src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab.png" />
+</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Tools
+python, haskell, kotlin, JS, C++, C, Julia
+
+TeX, HTML, CSS
+
+Git, Django, Django-allauth, Heroku, YandexCloud, VueJS, jQuery, 
+
+Vim, PyCharm, IntelljIdea, Vivaldi, i3wm
+
+#### My posts
+* ![](https://habr.com/ru/post/486872/)
+* ![](https://habr.com/ru/post/510970/)
+
