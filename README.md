@@ -3,7 +3,7 @@
 * I like web-development, Open Source, Linux (use Arch and Ubuntu), Vim and badgers 🦡.
 * My projects also locate on 
 <a href="https://gitlab.com/tamarinvs19">
-  <img alt="GitLab" height="15px" src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab_logo.img" />
+  <img alt="GitLab" height="15px" src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab_logo.jpg" />
 </a>
 
 #### Languages and Tools
