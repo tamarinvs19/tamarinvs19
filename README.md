@@ -5,8 +5,8 @@
 
 #### Languages and Tools
 python, haskell, kotlin, JS, C++, C, Julia
-<img alt="Python" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"
-<img alt="Haskell" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"
+<img alt="Python" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png">
+<img alt="Haskell" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg">
 
 TeX, HTML, CSS
 
