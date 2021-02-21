@@ -1,4 +1,4 @@
-### Hi there
+### Hi there! 🦡
 * I’m currently learning at St. Petersburg State University, Math and Computer Science.
 * I like **Web development**, **Open source**, **Linux** and **Vim**.
 * My projects also locate on <a href="https://gitlab.com/tamarinvs19"> <img alt="GitLab" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab.png"></a>
@@ -13,7 +13,6 @@
   <img alt="Kotlin" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
   <img alt="JS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
   <img alt="C++" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
-  <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
 </code>
 <hr/>
 <code>
