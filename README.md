@@ -1,12 +1,11 @@
 ### Hi there 👋
-I’m currently learning at St. Petersburg State University (MCS), living in St. Petersburg, Russia.
+I’m currently learning at St. Petersburg State University, MCS.
 
-I like web-development, Open Source, Linux (use Arch and Ubuntu), Vim and badgers (🦡).
+I like web-development, Open Source, Linux (use Arch and Ubuntu), Vim and badgers 🦡.
 
-My projects also locate on 
-<a href="https://gitlab.com/tamarinvs19">
+My projects also locate on ![
   <img align="left" alt="GitLab" height="22px" src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab.png" />
-</a>.
+  ](https://gitlab.com/tamarinvs19).
 
 #### Languages and Tools
 python, haskell, kotlin, JS, C++, C, Julia
