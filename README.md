@@ -8,20 +8,20 @@
 
 #### Languages and Tools
 <code>
-  <img alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
-  <img alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
-  <img alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
-  <img alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
-  <img alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
+  <img alt="Python" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
+  <img alt="Haskell" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
+  <img alt="Kotlin" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
+  <img alt="JS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
+  <img alt="C++" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
   <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
 </code>
-
+<br/>
 <code>
   <img alt="LaTeX" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
   <img alt="HTML" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
   <img alt="CSS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
 </code>
-
+<br/>
 <code>
   <img alt="Django" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
   <img alt="Heroku" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
@@ -30,7 +30,7 @@
   <img alt="jQuery" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
   <img alt="Git" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
 </code>
-
+<br/>
 <code>
   <img alt="Vim" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vim.png"> 
   <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"> 
