@@ -6,7 +6,7 @@
   - [Foreign Words](https://gitlab.com/tamarinvs19/foreign_words)
   - [Linear algebra](https://gitlab.com/tamarinvs19/linear_algebra)
 
-#### Languages and Tools
+### Languages and Tools
 <code>
   <img alt="Python" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
   <img alt="Haskell" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
@@ -14,7 +14,7 @@
   <img alt="JS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
   <img alt="C++" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
 </code>
-<hr/>
+<br/>
 <code>
   <img alt="Django" height=35px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
   <img alt="Heroku" height=35px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
@@ -23,13 +23,12 @@
   <img alt="jQuery" height=35px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
   <img alt="Git" height=35px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
 </code>
-<hr/>
+<br/>
 <code>
   <img alt="LaTeX" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
   <img alt="HTML" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
   <img alt="CSS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
 </code>
-<hr/>
 <code>
   <img alt="Vim" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vim.png"> 
   <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"> 
@@ -37,7 +36,7 @@
   <img alt="Vivaldi" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vivaldi.png"> 
 </code>
 
-#### My posts on Habr
+### My posts on Habr
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
 * [Merge in Python. Time test](https://habr.com/ru/post/510970/)
 
