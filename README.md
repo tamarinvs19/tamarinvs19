@@ -8,19 +8,19 @@
 
 #### Languages and Tools
 <code>
-  <img alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
-  <img alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
-  <img alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
-  <img alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
-  <img alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
-  <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
+  <img style="margin-left: 15px" alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
+  <img style="margin-left: 15px" alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
+  <img style="margin-left: 15px" alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
+  <img style="margin-left: 15px" alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
+  <img style="margin-left: 15px" alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
+  <img style="margin-left: 15px" alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
 </code>
 <hr>
 <code>
-  <img alt="LaTeX" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
-  <img alt="HTML" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
+  <img style="margin-left: 15px" alt="LaTeX" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
+  <img style="margin-left: 15px" alt="HTML" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
   <img alt="CSS" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
-</code
+</code>
 <hr>
 <code>
   <img alt="Django" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
