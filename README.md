@@ -8,31 +8,35 @@
 
 #### Languages and Tools
 <code>
-  <img style="margin-left: 15px" alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
-  <img style="margin-left: 15px" alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
-  <img style="margin-left: 15px" alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
-  <img style="margin-left: 15px" alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
-  <img style="margin-left: 15px" alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
-  <img style="margin-left: 15px" alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
+  <img alt="Python" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/python.png"> 
+  <img alt="Haskell" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/haskell.jpg"> 
+  <img alt="Kotlin" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/kotlin.png"> 
+  <img alt="JS" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
+  <img alt="C++" width=30px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
+  <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
 </code>
-<hr>
-<code>
-  <img style="margin-left: 15px" alt="LaTeX" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
-  <img style="margin-left: 15px" alt="HTML" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
-  <img alt="CSS" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
-</code>
-<hr>
-<code>
-  <img alt="Django" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
-  <img alt="Heroku" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
-  <img alt="Yandex.Cloud" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/yandex_cloud.png"> 
-  <img alt="VueJS" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vuejs.png"> 
-  <img alt="jQuery" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
-  <img alt="Git" width=70px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
-</code>
-<hr>
 
-Vim, PyCharm, IntelljIdea, Vivaldi, i3wm
+<code>
+  <img alt="LaTeX" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
+  <img alt="HTML" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
+  <img alt="CSS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
+</code>
+
+<code>
+  <img alt="Django" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
+  <img alt="Heroku" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
+  <img alt="Yandex.Cloud" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/yandex_cloud.png"> 
+  <img alt="VueJS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vuejs.png"> 
+  <img alt="jQuery" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
+  <img alt="Git" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
+</code>
+
+<code>
+  <img alt="Vim" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vim.png"> 
+  <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.png"> 
+  <img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"> 
+  <img alt="Vivaldi" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vivaldi.png"> 
+</code>
 
 #### My posts
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
