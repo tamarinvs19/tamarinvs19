@@ -33,7 +33,7 @@
 
 <code>
   <img alt="Vim" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vim.png"> 
-  <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.png"> 
+  <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"> 
   <img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"> 
   <img alt="Vivaldi" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vivaldi.png"> 
 </code>
