@@ -14,24 +14,18 @@
   <img alt="JS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"> 
   <img alt="C++" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"> 
   <img alt="Julia" width=48px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/julia.png"> 
-</code>
 <br/>
-<code>
   <img alt="LaTeX" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/latex.png"> 
   <img alt="HTML" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/html.png"> 
   <img alt="CSS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/css-1.png"> 
-</code>
 <br/>
-<code>
   <img alt="Django" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/django.jpg"> 
   <img alt="Heroku" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/heroku.png"> 
   <img alt="Yandex.Cloud" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/yandex_cloud.png"> 
   <img alt="VueJS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vuejs.png"> 
   <img alt="jQuery" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/jquery.png"> 
   <img alt="Git" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/git.svg"> 
-</code>
 <br/>
-<code>
   <img alt="Vim" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vim.png"> 
   <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"> 
   <img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"> 
