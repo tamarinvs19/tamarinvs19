@@ -37,7 +37,7 @@
   <img alt="Vivaldi" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/vivaldi.png"> 
 </code>
 
-#### My posts
+#### My posts on Habr
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
 * [Merge in Python. Time test](https://habr.com/ru/post/510970/)
 
