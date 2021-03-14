@@ -6,8 +6,9 @@
   - [Foreign Words](https://gitlab.com/tamarinvs19/foreign_words)
   - [Linear algebra](https://gitlab.com/tamarinvs19/linear_algebra)
 
-### Languages and Tools
+### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamarinvs19&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+### Languages and Tools
 <p>
 <code><img alt="Python" height=40px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img alt="Haskell" height=40px src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
@@ -24,13 +25,14 @@
 <code><img alt="Git" height=40px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img alt="GitLab" height=40px src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 <br/><br/>
-<code>
-  <img alt="Vim" height=40px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"> 
-  <img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"> 
-  <img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"> 
-  <img alt="Vivaldi" height=40px src="https://www.vectorlogo.zone/logos/vivaldi/vivaldi-icon.svg"> 
-</code>
+<code><img alt="Vim" height=40px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code> 
+<code><img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"></code> 
+<code><img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"></code> 
+<code><img alt="Vivaldi" height=40px src="https://www.vectorlogo.zone/logos/vivaldi/vivaldi-icon.svg"></code>
+</p>
 
+
+  
 ### My posts on Habr
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
 * [Merge in Python. Time test](https://habr.com/ru/post/510970/)
