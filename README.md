@@ -26,7 +26,7 @@
 <code><img alt="GitLab" height=40px src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 <br/><br/>
 <code><img alt="Vim" height=40px src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code> 
-<code><img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.jpg"></code> 
+<code><img alt="PyCharm" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/pycharm.png"></code> 
 <code><img alt="IntelliJ" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/intellij.png"></code> 
 <code><img alt="Vivaldi" height=40px src="https://www.vectorlogo.zone/logos/vivaldi/vivaldi-icon.svg"></code>
 </p>
