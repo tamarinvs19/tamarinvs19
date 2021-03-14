@@ -8,6 +8,7 @@
 
 ### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamarinvs19&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
 <p>
 <code><img alt="Python" height=40px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
@@ -30,8 +31,6 @@
 <code><img alt="Git" height=40px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img alt="GitLab" height=40px src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 </p>
-
-
   
 ### My posts on Habr
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
