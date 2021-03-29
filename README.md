@@ -5,6 +5,7 @@
   - [Mister X](https://gitlab.com/tamarinvs19/misterX)
   - [Foreign Words](https://gitlab.com/tamarinvs19/foreign_words)
   - [Linear algebra](https://gitlab.com/tamarinvs19/linear_algebra)
+  - [And more here](https://gitlab.com/tamarinvs19)
 
 ### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamarinvs19&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
