@@ -1,6 +1,7 @@
 ### Hi there! 🦡
 * I’m currently learning at St. Petersburg State University, Math and Computer Science.
 * I like **Web development**, **Open source**, **Linux** and **Vim**.
+* My [cv](https://github.com/tamarinvs19/Tamarin_Vyacheslav_cv).
 * My projects also locate on <a href="https://gitlab.com/tamarinvs19"> <img alt="GitLab" height=22px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/gitlab.png"></a>
   - [Mister X](https://gitlab.com/tamarinvs19/misterX)
   - [Foreign Words](https://gitlab.com/tamarinvs19/foreign_words)
