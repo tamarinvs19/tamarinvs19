@@ -38,4 +38,4 @@
 ### My posts on Habr
 * [Linux keyboard. Settings](https://habr.com/ru/post/486872/)
 * [Merge in Python. Time test](https://habr.com/ru/post/510970/)
-
+* [SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation](https://habr.com/ru/post/666478/)
