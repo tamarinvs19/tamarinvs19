@@ -15,9 +15,9 @@
 ### Languages and Tools
 <p>
 <code><img alt="Python" height=40px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img alt="Haskell" height=40px src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
 <code><img alt="Kotlin" height=40px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
 <code><img alt="JS" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/js.png"></code>
+<code><img alt="Haskell" height=40px src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg"></code>
 <code><img alt="C++" height=40px src="https://raw.githubusercontent.com/tamarinvs19/tamarinvs19/master/imgs/cpp.svg"></code>
 <code><img alt="LaTeX" height=40px src="https://github.com/file-icons/icons/blob/master/svg/LaTeX.svg"></code>
 <code><img alt="HTML" height=40px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
